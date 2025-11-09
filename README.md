@@ -1,6 +1,8 @@
-<h1 align="center">
+# Hi 👋 I'm Sanzx Project
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanzx+Project;Embedded+Systems+Engineer;IoT+%26+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanzxprojectid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,6 +13,9 @@
 <p align="center">
   <a href="https://instagram.com/sanzx_project.id">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@sanzx_project.id">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://github.com/sanzxprojectid">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -28,7 +33,7 @@ class SanzxProject {
     String role = "Embedded Systems Developer";
     String location = "Padang, West Sumatra, Indonesia 🇮🇩";
     
-    String[] interests = {
+    String interests[] = {
       "IoT & Smart Devices",
       "AI Integration",
       "ESP32 Development",
@@ -36,7 +41,7 @@ class SanzxProject {
       "Wireless Mesh Networks"
     };
     
-    String[] currentlyWorking = {
+    String currentlyWorking[] = {
       "AI-Pocket - ESP32-C3 AI Assistant",
       "ESP-NOW Mesh Communication",
       "Advanced Power Management"
@@ -73,41 +78,37 @@ class SanzxProject {
 
 ## 💻 Tech Stack
 
-<p align="center">
-
 ### 🔧 Embedded Systems
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ### 💬 Programming Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTI1NiAxMjh2MTI4SDBWMGgyNTZ2MTI4eiIgZmlsbD0iI0ZGN0YwMCIvPjwvc3ZnPg==&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTI1NiAxMjh2MTI4SDBWMGgyNTZ2MTI4eiIgZmlsbD0iI0ZGN0YwMCIvPjwvc3ZnPg==&logoColor=white)
 
 ### 🌐 IoT & Communication
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/WiFi-009ADE?style=for-the-badge&logo=wifi&logoColor=white" />
-<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-009ADE?style=for-the-badge&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 ### 🤖 AI & APIs
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-</p>
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanzxprojectid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzxprojectid&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanzxprojectid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzxprojectid&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -163,34 +164,15 @@ graph LR
 
 ## 💡 Project Highlights
 
-<table align="center">
-  <tr>
-    <th>🤖 AI Integration</th>
-    <th>📡 Mesh Network</th>
-    <th>🔋 Power Management</th>
-  </tr>
-  <tr>
-    <td>Google Gemini AI on ESP32</td>
-    <td>ESP-NOW P2P Messaging</td>
-    <td>Advanced Battery Analytics</td>
-  </tr>
-  <tr>
-    <td>Real-time chat interface</td>
-    <td>5-peer mesh topology</td>
-    <td>Drain rate prediction</td>
-  </tr>
-  <tr>
-    <td>Custom keyboard system</td>
-    <td>No WiFi required</td>
-    <td>Leak detection</td>
-  </tr>
-</table>
+| 🤖 AI Integration | 📡 Mesh Network | 🔋 Power Management |
+|-------------------|-----------------|---------------------|
+| Google Gemini AI on ESP32 | ESP-NOW P2P Messaging | Advanced Battery Analytics |
+| Real-time chat interface | 5-peer mesh topology | Drain rate prediction |
+| Custom keyboard system | No WiFi required | Leak detection |
 
 ---
 
 ## 🌱 Learning Journey
-
-<div align="center">
 
 | Area | Status | Focus |
 |------|--------|-------|
@@ -199,8 +181,6 @@ graph LR
 | 🔋 Battery Management | ████████░░ 85% | Predictive analytics |
 | 📊 Data Visualization | ████░░░░░░ 40% | OLED graphics |
 | 🌐 Web Integration | ███░░░░░░░ 30% | RESTful APIs |
-
-</div>
 
 ---
 
@@ -220,8 +200,6 @@ Other         0 hrs 20 mins  ░░░░░░░░░░░░░░░░░
 
 ## 🎨 Skills Matrix
 
-<div align="center">
-
 ```ascii
 ╔══════════════════════════════════════════════╗
 ║  Embedded Systems    [██████████] 95%       ║
@@ -234,8 +212,6 @@ Other         0 hrs 20 mins  ░░░░░░░░░░░░░░░░░
 ║  PCB Design          [██████░░░░] 60%       ║
 ╚══════════════════════════════════════════════╝
 ```
-
-</div>
 
 ---
 
@@ -259,10 +235,13 @@ Other         0 hrs 20 mins  ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://instagram.com/sanzx_project.id">
-    <img src="https://img.shields.io/badge/💬_DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/💬_DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@sanzx_project.id">
+    <img src="https://img.shields.io/badge/📱_Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://github.com/sanzxprojectid">
-    <img src="https://img.shields.io/badge/⭐_Star_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⭐_Star_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
