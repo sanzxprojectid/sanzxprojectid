@@ -1,28 +1,35 @@
 # Hi 👋 I'm Sanzx Project
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanzx+Project;Embedded+Systems+Engineer;IoT+%26+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SANZX%20PROJECT&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;IoT+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Smart+Devices+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanzxprojectid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sanzxprojectid?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sanzxprojectid?label=Stars&style=social" alt="Stars" />
-</p>
+### 🌟 Turning Ideas Into Reality, One Line of Code at a Time
 
-<p align="center">
-  <a href="https://instagram.com/sanzx_project.id">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.tiktok.com/@sanzx_project.id">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://github.com/sanzxprojectid">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=sanzxprojectid&label=Profile%20Views&color=00F7FF&style=for-the-badge)](https://github.com/sanzxprojectid)
+[![Followers](https://img.shields.io/github/followers/sanzxprojectid?label=Followers&style=for-the-badge&color=00F7FF&logo=github)](https://github.com/sanzxprojectid?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sanzxprojectid?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)](https://github.com/sanzxprojectid?tab=repositories)
 
----
+</div>
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sanzx_project.id)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@sanzx_project.id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge)](https://github.com/sanzxprojectid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge)](mailto:sanzxproject@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🚀 About Me
 
@@ -167,213 +174,533 @@ void collaborate() {
 
 <div align="center">
 
-### 🤖 [AI-Pocket](https://github.com/sanzxprojectid/AI-pocket)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-[![Stars](https://img.shields.io/github/stars/sanzxprojectid/AI-pocket?style=social)](https://github.com/sanzxprojectid/AI-pocket)
-[![Forks](https://img.shields.io/github/forks/sanzxprojectid/AI-pocket?style=social)](https://github.com/sanzxprojectid/AI-pocket/fork)
-[![Issues](https://img.shields.io/github/issues/sanzxprojectid/AI-pocket)](https://github.com/sanzxprojectid/AI-pocket/issues)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/sanzxprojectid/AI-pocket/blob/main/LICENSE)
+### 🤖 AI-Pocket: The Future of Pocket Computing
 
-**A powerful ESP32-C3 multitool with AI integration, mesh networking, and advanced battery management**
+<table>
+<tr>
+<td width="60%">
 
-🤖 Gemini AI Chat • 📡 ESP-NOW Mesh • 🔋 Battery Guardian • ⚡ Power Monitor • 🧮 Calculator • 🧘 Zen Mode
+**🚀 ESP32-C3 Powered AI Assistant**
 
-[View Project →](https://github.com/sanzxprojectid/AI-pocket)
+The most advanced pocket multitool with bleeding-edge features that push the boundaries of what's possible on microcontrollers!
+
+#### ✨ Key Features
+
+```mermaid
+mindmap
+  root((AI-Pocket))
+    🤖 AI Integration
+      Gemini Chat
+      Smart Responses
+      Context Awareness
+    📡 Mesh Network
+      ESP-NOW Protocol
+      5-Peer Topology
+      No WiFi Needed
+    🔋 Power System
+      Smart BMS
+      Drain Prediction
+      Leak Detection
+    ⚡ Performance
+      Real-time Processing
+      Low Latency
+      Optimized Code
+```
+
+#### 🎯 What Makes It Special
+
+- 💬 **AI Chat Interface** - Talk to Gemini AI offline
+- 🌐 **Mesh Networking** - Connect 5+ devices seamlessly
+- 🔋 **Intelligent Battery** - Predicts runtime & optimizes power
+- ⌨️ **Custom Input** - Responsive keyboard system
+- 🎮 **Interactive UI** - Smooth OLED animations
+- 🧘 **Zen Mode** - Focus timer & productivity tools
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanzxprojectid&repo=AI-pocket&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B6B&text_color=FFFFFF" width="100%"/>
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/sanzxprojectid/AI-pocket?style=for-the-badge&logo=github&color=FFD700)](https://github.com/sanzxprojectid/AI-pocket)
+[![Forks](https://img.shields.io/github/forks/sanzxprojectid/AI-pocket?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/sanzxprojectid/AI-pocket/fork)
+[![Issues](https://img.shields.io/github/issues/sanzxprojectid/AI-pocket?style=for-the-badge&logo=github&color=FF6B6B)](https://github.com/sanzxprojectid/AI-pocket/issues)
+[![License](https://img.shields.io/github/license/sanzxprojectid/AI-pocket?style=for-the-badge&color=00FF00)](https://github.com/sanzxprojectid/AI-pocket/blob/main/LICENSE)
+
+<br>
+
+```cpp
+// Quick Start
+git clone AI-pocket.git
+cd AI-pocket
+pio run -t upload
+// Enjoy the future! 🚀
+```
+
+<br>
+
+**[📖 Documentation](https://github.com/sanzxprojectid/AI-pocket) • [🐛 Report Bug](https://github.com/sanzxprojectid/AI-pocket/issues) • [💡 Request Feature](https://github.com/sanzxprojectid/AI-pocket/issues)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Expertise
 
-### 🔧 Embedded Systems
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+<div align="center">
 
-### 💬 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,linux,git,github,vscode,figma&theme=dark" />
 
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTI1NiAxMjh2MTI4SDBWMGgyNTZ2MTI4eiIgZmlsbD0iI0ZGN0YwMCIvPjwvc3ZnPg==&logoColor=white)
+</div>
 
-### 🌐 IoT & Communication
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![WiFi](https://img.shields.io/badge/WiFi-009ADE?style=for-the-badge&logo=wifi&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-### 🤖 AI & APIs
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+### 🔧 Hardware & Embedded
 
----
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanzxprojectid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzxprojectid&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzxprojectid&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzxprojectid&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanzxprojectid&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[🔬 Research] --> B[ESP32-C3 Optimization]
-    A --> C[AI Edge Computing]
-    A --> D[Power Efficiency]
-    
-    B --> E[⚡ AI-Pocket Project]
-    C --> E
-    D --> E
-    
-    E --> F[🚀 Future Projects]
-    F --> G[Smart Home Hub]
-    F --> H[Wearable IoT Device]
-    F --> I[Environmental Monitor]
-    
-    style E fill:#00d4ff,stroke:#0088cc,stroke-width:3px
-    style F fill:#ff6b6b,stroke:#cc0000,stroke-width:2px
+**Expertise Level**
+```
+ESP32 Series    ████████████ 98%
+Arduino         ████████████ 95%
+Raspberry Pi    ██████████░░ 85%
+STM32           ████████░░░░ 75%
 ```
 
+</td>
+<td width="33%" align="center">
+
+### 💻 Programming & Tools
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Proficiency**
+```
+C/C++           ████████████ 98%
+Python          ██████████░░ 80%
+JavaScript      ████████░░░░ 70%
+Assembly        ██████░░░░░░ 55%
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 IoT & Communication
+
+<img src="https://img.shields.io/badge/WiFi-009ADE?style=for-the-badge&logo=wifi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP--NOW-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+**Protocol Mastery**
+```
+ESP-NOW         ███████████░ 92%
+WiFi/BLE        ██████████░░ 88%
+MQTT            █████████░░░ 85%
+LoRa            ███████░░░░░ 68%
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🛠️ Development Tools & Frameworks (Click to expand)</b></summary>
+<br>
+
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **IDEs** | VS Code • PlatformIO • Arduino IDE • STM32CubeIDE |
+| **Version Control** | Git • GitHub • GitLab |
+| **Design** | Fusion 360 • KiCad • Fritzing • EasyEDA |
+| **Testing** | Logic Analyzer • Oscilloscope • Multimeter |
+| **Protocols** | I2C • SPI • UART • CAN Bus • Modbus |
+| **Libraries** | ESP-IDF • Arduino Core • FreeRTOS • TensorFlow Lite |
+| **Cloud & AI** | Google Gemini • Firebase • AWS IoT • TensorFlow |
+
+</div>
+
+</details>
+
+<div align="center">
+
+### 🎯 Specialized Skills
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48"/>
+<br><b>AI Integration</b>
+<br><sub>Edge AI • Gemini API</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/mesh-network.png" width="48"/>
+<br><b>Mesh Networks</b>
+<br><sub>ESP-NOW • P2P</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/battery.png" width="48"/>
+<br><b>Power Systems</b>
+<br><sub>BMS • Optimization</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/internet-of-things.png" width="48"/>
+<br><b>IoT Solutions</b>
+<br><sub>Smart Devices</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="48"/>
+<br><b>Firmware Dev</b>
+<br><sub>Bare Metal • RTOS</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 📌 Pinned Repositories
+## 📊 GitHub Analytics Dashboard
 
-<p align="center">
-  <a href="https://github.com/sanzxprojectid/AI-pocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanzxprojectid&repo=AI-pocket&theme=tokyonight" alt="AI-Pocket" />
-  </a>
-</p>
+<div align="center">
+
+### ⚡ Performance Metrics
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanzxprojectid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzxprojectid&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 💻 Code Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzxprojectid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="45%"/>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzxprojectid&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area=true&area_color=00F7FF" alt="Contribution Graph" width="100%"/>
+
+</div>
 
 ---
 
-## 💡 Project Highlights
+## 🏆 Achievements & Milestones
 
-| 🤖 AI Integration | 📡 Mesh Network | 🔋 Power Management |
-|-------------------|-----------------|---------------------|
-| Google Gemini AI on ESP32 | ESP-NOW P2P Messaging | Advanced Battery Analytics |
-| Real-time chat interface | 5-peer mesh topology | Drain rate prediction |
-| Custom keyboard system | No WiFi required | Leak detection |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanzxprojectid&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="64"/>
+<br><b>500+</b>
+<br><sub>Lines of Code Daily</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/project.png" width="64"/>
+<br><b>10+</b>
+<br><sub>Major Projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/crowd.png" width="64"/>
+<br><b>100+</b>
+<br><sub>Community Members</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="64"/>
+<br><b>Open</b>
+<br><sub>To Collaborate</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Learning Journey
+## 🎯 Current Focus & Roadmap
 
-| Area | Status | Focus |
-|------|--------|-------|
-| 🔌 ESP-NOW Protocol | ████████░░ 80% | Mesh optimization |
-| 🤖 AI Edge Computing | ██████░░░░ 60% | Model compression |
-| 🔋 Battery Management | ████████░░ 85% | Predictive analytics |
-| 📊 Data Visualization | ████░░░░░░ 40% | OLED graphics |
-| 🌐 Web Integration | ███░░░░░░░ 30% | RESTful APIs |
+<div align="center">
+
+### 🚀 What I'm Building Right Now
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ Active Development
+
+```mermaid
+gantt
+    title Project Timeline 2025-2026
+    dateFormat  YYYY-MM
+    section AI-Pocket
+    Core Development       :done, 2024-06, 2024-12
+    AI Integration        :done, 2024-12, 2025-06
+    Mesh Network          :done, 2025-06, 2025-11
+    V2.0 Release         :active, 2025-11, 2026-01
+    
+    section Future
+    Voice Recognition    :crit, 2026-01, 2026-04
+    Mobile App          :2026-04, 2026-07
+    IoT Ecosystem       :2026-07, 2026-12
+```
+
+#### 🔬 Research Areas
+
+- 🧠 **Edge AI Optimization** - Running ML models on ESP32
+- 📡 **Mesh Topology** - Building self-healing networks
+- 🔋 **Energy Harvesting** - Solar + kinetic power systems
+- 🎮 **UI/UX Design** - Smooth interfaces on OLED displays
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 2025-2026 Goals
+
+<details open>
+<summary><b>Q4 2025 (Oct - Dec) - CURRENT</b></summary>
+
+- [x] ✅ Complete AI-Pocket mesh networking
+- [x] ✅ Optimize battery management system
+- [ ] 🔄 Launch AI-Pocket v2.0 (In Progress)
+- [ ] 📝 Write technical documentation
+- [ ] 🎥 Create YouTube tutorials
+
+</details>
+
+<details>
+<summary><b>Q1 2026 (Jan - Mar)</b></summary>
+
+- [ ] 🎤 Add voice recognition feature
+- [ ] 📱 Start companion mobile app development
+- [ ] 🌐 Build web dashboard prototype
+- [ ] 🤝 Open source contributions
+- [ ] 🏆 Attend tech conferences
+
+</details>
+
+<details>
+<summary><b>Q2-Q3 2026 (Apr - Sep)</b></summary>
+
+- [ ] 🏠 Complete IoT ecosystem
+- [ ] 📚 Launch online course
+- [ ] 🎓 Technical blog series
+- [ ] 🌟 Reach 1000 GitHub stars
+- [ ] 🤖 AI wearable prototype
+
+</details>
+
+#### 💡 Dream Projects
+
+```cpp
+vector<Project> dreamList = {
+  {"Smart Home Hub", "Central IoT controller"},
+  {"Wearable AI Assistant", "ESP32 smartwatch"},
+  {"Env Monitor", "Air quality sensor network"},
+  {"Robot Arm", "6-DOF manipulator"},
+  {"Energy Monitor", "Real-time power analytics"}
+};
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌱 Learning & Growth
+
+| Area | Current Status | Next Milestone |
+|------|----------------|----------------|
+| 🔌 **ESP-NOW Protocol** | `██████████████ 95%` | Multi-hop routing |
+| 🤖 **Edge AI** | `████████████░░ 80%` | Model quantization |
+| 🔋 **Power Management** | `██████████████ 95%` | Energy harvesting |
+| 📊 **Data Visualization** | `████████░░░░░░ 55%` | Web dashboard |
+| 🌐 **Cloud Integration** | `██████████░░░░ 70%` | AWS IoT Core |
+| 🎨 **PCB Design** | `███████████░░░ 75%` | 4-layer boards |
+
+</div>
 
 ---
 
-## 📈 Coding Activity
+## 📈 Weekly Development Activity
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 ```text
-C/C++        12 hrs 45 mins  ████████████████░░░░░   65.2%
-Python        3 hrs 28 mins  ████░░░░░░░░░░░░░░░░░   17.8%
-Markdown      2 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░   11.5%
-JSON          0 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░    3.8%
-Other         0 hrs 20 mins  ░░░░░░░░░░░░░░░░░░░░░    1.7%
+💻 This Week's Coding Stats
+
+C/C++        ████████████████░░░░░   65.2%  (12 hrs 45 mins)
+Python       ████░░░░░░░░░░░░░░░░   17.8%  (3 hrs 28 mins) 
+Markdown     ███░░░░░░░░░░░░░░░░░   11.5%  (2 hrs 15 mins)
+JSON         █░░░░░░░░░░░░░░░░░░░    3.8%  (45 mins)
+Other        ░░░░░░░░░░░░░░░░░░░░    1.7%  (20 mins)
+
+🔥 Productivity: ████████████░░ 75% | 🎯 Focus: Embedded Systems
 ```
 <!--END_SECTION:waka-->
 
----
-
-## 🎨 Skills Matrix
-
-```ascii
-╔══════════════════════════════════════════════╗
-║  Embedded Systems    [██████████] 95%       ║
-║  IoT Development     [█████████░] 90%       ║
-║  C/C++ Programming   [█████████░] 88%       ║
-║  Hardware Design     [████████░░] 80%       ║
-║  AI Integration      [███████░░░] 70%       ║
-║  Battery Systems     [█████████░] 85%       ║
-║  Wireless Protocols  [████████░░] 82%       ║
-║  PCB Design          [██████░░░░] 60%       ║
-╚══════════════════════════════════════════════╝
-```
+</div>
 
 ---
 
-## 🔭 Future Goals
-
-- [ ] 🚀 Launch AI-Pocket v2.0 with voice recognition
-- [ ] 🌐 Build comprehensive IoT ecosystem
-- [ ] 📱 Develop mobile companion app
-- [ ] 🤝 Collaborate on open-source embedded projects
-- [ ] 📚 Create video tutorials for ESP32 development
-- [ ] 🏆 Contribute to major embedded systems libraries
-- [ ] 🎓 Share knowledge through technical blog posts
-
----
-
-## 💬 Let's Connect!
-
-<p align="center">
-  <i>I'm always open to interesting projects and collaboration opportunities!</i>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/sanzx_project.id">
-    <img src="https://img.shields.io/badge/💬_DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@sanzx_project.id">
-    <img src="https://img.shields.io/badge/📱_Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://github.com/sanzxprojectid">
-    <img src="https://img.shields.io/badge/⭐_Star_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanzxprojectid/sanzxprojectid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanzxprojectid/sanzxprojectid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanzxprojectid/sanzxprojectid/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+## 💬 Let's Connect & Collaborate!
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<br>
+
+### 🤝 Open to Collaboration
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 🌟 I'm Looking For
+
+```cpp
+struct Collaboration {
+  bool openSource = true;
+  bool learningTogether = true;
+  bool innovativeIdeas = true;
   
+  bool interestedIn() {
+    return (coolIoTProjects || 
+            embeddedChallenges ||
+            AIintegration ||
+            meshNetworks ||
+            batteryOptimization);
+  }
+};
+
+// Let's build something amazing! 🚀
+```
+
+**💡 Areas of Interest:**
+- 🤖 IoT & Smart Device Projects
+- 🧠 AI/ML on Embedded Systems
+- 📡 Wireless Communication Protocols
+- 🔋 Energy-Efficient Design
+- 🎓 Knowledge Sharing & Tutorials
+
+</td>
+<td width="50%" align="center">
+
+#### 📬 Get In Touch
+
+<a href="https://instagram.com/sanzx_project.id">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" height="40"/>
+</a>
+
+<a href="https://www.tiktok.com/@sanzx_project.id">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&style=for-the-badge" height="40"/>
+</a>
+
+<a href="https://github.com/sanzxprojectid">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" height="40"/>
+</a>
+
+<a href="mailto:sanzxproject@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
+</a>
+
+<br><br>
+
+**⚡ Quick Links**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/sanzxprojectid)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/sanzxprojectid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+<br>
+
+**📍 Based in Padang, West Sumatra, Indonesia 🇮🇩**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💭 Response Time
+
+| Platform | Typical Response |
+|----------|------------------|
+| 📧 Email | Within 24 hours |
+| 📱 Instagram DM | Within 12 hours |
+| 🐙 GitHub Issues | Within 48 hours |
+| 🎵 TikTok Comments | Daily check |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
+
 ### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<br>
 
-**Thanks for visiting! Happy coding! 🚀**
+**⭐ If you like my projects, consider giving them a star!**
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-![Indonesia](https://img.shields.io/badge/From-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-red?style=for-the-badge)
+<br>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/Powered%20by-ESP32%20%26%20AI-00F7FF?style=for-the-badge)
+![From Indonesia](https://img.shields.io/badge/From-Indonesia%20🇮🇩-red?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-green?style=for-the-badge)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sanzxprojectid&label=Total%20Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+
+<br>
+
+---
+
+<sub>🚀 **Building the future, one commit at a time** | 💻 **Powered by caffeine & curiosity** | ⚡ **Making hardware smart since 2021**</sub>
 
 </div>
