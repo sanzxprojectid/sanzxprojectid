@@ -26,32 +26,140 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
+### 👨‍💻 Embedded Systems Engineer | 🤖 IoT Enthusiast | 🌟 Open Source Contributor
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 What I Do
+
 ```cpp
 class SanzxProject {
+  private:
+    String passion = "Building Smart Devices";
+    int yearsOfExperience = 3;
+    bool loveCoding = true;
+    
   public:
-    String name = "Sanzx Project";
-    String role = "Embedded Systems Developer";
-    String location = "Padang, West Sumatra, Indonesia 🇮🇩";
+    void introduce() {
+      Serial.println("👋 Hello World!");
+      Serial.println("I'm a hardware hacker");
+      Serial.println("& software creator");
+      Serial.println("from Indonesia 🇮🇩");
+    }
     
-    String interests[] = {
-      "IoT & Smart Devices",
-      "AI Integration",
-      "ESP32 Development",
-      "Battery Management Systems",
-      "Wireless Mesh Networks"
-    };
-    
-    String currentlyWorking[] = {
-      "AI-Pocket - ESP32-C3 AI Assistant",
-      "ESP-NOW Mesh Communication",
-      "Advanced Power Management"
-    };
-    
-    void sayHi() {
-      Serial.println("Thanks for dropping by! Let's build something amazing! 🛠️");
+    void mission() {
+      while(loveCoding) {
+        learn();
+        build();
+        share();
+      }
     }
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔥 Currently Working On
+
+🤖 **AI-Pocket Project**
+> ESP32-C3 AI assistant with mesh networking
+
+📡 **ESP-NOW Research**
+> Building reliable P2P communication
+
+🔋 **Power Optimization**
+> Advanced battery management systems
+
+#### 💡 Interests
+
+- 🌐 IoT & Smart Home Automation
+- 🧠 Edge AI & Machine Learning
+- ⚡ Low-Power Circuit Design
+- 📶 Wireless Communication Protocols
+- 🎮 Interactive Device Interfaces
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🛠️ My Tech Arsenal
+
+<details>
+<summary>🔧 <b>Hardware & Platforms</b></summary>
+<br>
+
+| Platform | Experience | Projects |
+|----------|------------|----------|
+| ESP32/ESP32-C3 | ⭐⭐⭐⭐⭐ | AI-Pocket, Mesh Networks |
+| Arduino | ⭐⭐⭐⭐⭐ | Sensor Systems, Automation |
+| Raspberry Pi | ⭐⭐⭐⭐ | Edge Computing, Servers |
+| STM32 | ⭐⭐⭐ | Motor Control, Industrial |
+
+</details>
+
+<details>
+<summary>💻 <b>Programming Languages</b></summary>
+<br>
+
+```text
+C/C++      ████████████████████░  95%  - Embedded Systems
+Python     ███████████████░░░░░  75%  - Automation & AI
+JavaScript ████████████░░░░░░░░  60%  - Web Integration
+Assembly   ██████░░░░░░░░░░░░░░  30%  - Low-level Optimization
+```
+
+</details>
+
+<details>
+<summary>🌐 <b>Communication Protocols</b></summary>
+<br>
+
+✅ **Wireless**: WiFi, Bluetooth, ESP-NOW, LoRa  
+✅ **Wired**: UART, I2C, SPI, CAN Bus  
+✅ **Internet**: MQTT, HTTP/HTTPS, WebSocket  
+✅ **Network**: TCP/IP, UDP, Mesh Networking  
+
+</details>
+
+<details>
+<summary>🤖 <b>AI & Cloud Services</b></summary>
+<br>
+
+- 🧠 Google Gemini API Integration
+- ☁️ Firebase & Cloud IoT
+- 📊 TensorFlow Lite (Edge AI)
+- 🗣️ Voice Recognition Systems
+
+</details>
+
+</div>
+
+<div align="center">
+
+### 📫 Want to Collaborate?
+
+```cpp
+void collaborate() {
+  if (you.have("Cool IoT Idea") || you.want("Learn ESP32")) {
+    reach.out("Let's build something amazing! 🚀");
+    project.status = EXCITED;
+  }
+}
+```
+
+**💬 I'm always open to:**  
+`Interesting Projects` • `Tech Discussions` • `Knowledge Sharing` • `Open Source Contributions`
+
+</div>
 
 ---
 
